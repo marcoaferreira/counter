@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.marcoaferreira.vm_counter"
+    namespace = "com.marcoaferreira.counter"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.marcoaferreira.vm_counter"
+        applicationId = "com.marcoaferreira.counter"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
